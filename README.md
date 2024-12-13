@@ -140,9 +140,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Your Name - [@yourtwitterhandle](https://twitter.com/atharvvvsharma)
+Your Name - [@atharvvvsharma](https://twitter.com/atharvvvsharma)
 
-Project Link: [https://github.com/yourusername/directory-brute-force](https://github.com/satharv/Advanced-Directory-Brute-Force-Script)
+Project Link: [https://github.com/satharv/Advanced-Directory-Brute-Force-Script](https://github.com/satharv/Advanced-Directory-Brute-Force-Script)
 
 ---
 
