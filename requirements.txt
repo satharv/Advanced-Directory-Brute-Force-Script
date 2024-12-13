@@ -1,0 +1,2 @@
+# Python Dependencies
+pyyaml>=5.4.1
